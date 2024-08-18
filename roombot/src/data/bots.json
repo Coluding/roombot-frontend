@@ -1,0 +1,23 @@
+[
+  
+  {
+    "title": "Kamernet Sfhfhfffi",
+    "apikey": "1234567890abcdef",
+    "email": "example@example.com",
+    "password": "securepassword123",
+    "end_date": "2024-12-31",
+    "search_interval": 30,
+    "platform": "kamernet",
+    "location": "Amsterdam",
+    "max_price": 1500,
+    "max_size": "50m2",
+    "min_size": "20m2",
+    "min_rooms": 1,
+    "max_rooms": 3,
+    "gender": "Any",
+    "age": 25,
+    "status": "Active",
+    "radius": "5km",
+    "system_message": "Looking for apartments in Amsterdam within specified criteria."
+}
+]
